@@ -1,0 +1,5 @@
+displayName = Bryn's content - raets!
+author = BrynDino
+version = 0.1.2
+homepage = https://forums.terraria.org/index.php?threads/bryns-content.88435/
+includePDB = true

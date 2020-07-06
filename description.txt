@@ -1,0 +1,47 @@
+This mod is kinda just a collection of me trying to make a decent mod. I hope you all enjoy my mod. Check out the homepage for feedback & stuff.
+
+Changelog
+0.0.1
+-added dirt sword
+-added volcano wand
+0.0.2
+-added mage dust
+-modified weapons
+0.0.3
+-added slimey bow parts
+-modified weapons
+-added the night's painful bite
+-added corrupt pus
+-modified weapons
+0.0.4
+-added the corrupt muscle tissue accessory
+-balanced some weapons
+0.0.5
+-updated the dirt sword sprite
+0.0.6
+-removed slimey bow parts
+-added toothed flesh mass accessory
+-renamed mage dust to supercharging powder
+-modified recipes
+0.0.7
+-added the supercharged boomerang
+-added the supercharged knife
+-made minor changes
+-added Magical Throwing Knives
+-made other minor changes
+-made it so one can't obtain the bloody intestines or corrupt pus pre-eoc
+0.1.0
+-added ungodly essence
+-added profane bars
+-added demonic bulldog gun
+-added 'placeholders are fun!' enemy
+-added blasphemous bullets
+-tweaked the balance of certain weapons
+-added raet souls, raet bod, and raet summoning item(broken rn tho) as part of the raet themed set
+-did a bunch of other stuff
+0.1.1
+-modified a sprite because intellectual property
+0.1.2
+-Added Ethereal Flurry Staff
+-Made a bunch of minor changes
+-Added Raet enemy
